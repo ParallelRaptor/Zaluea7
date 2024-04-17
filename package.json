@@ -6,7 +6,6 @@
   "scripts": {
     "go": "npm run build && npm start"
   },
-{
   "dependencies": {
     "bare-server-node": "github:tomphttp/bare-server-node",
     "node-static": "^0.7.11"
